@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAD/DwAAAAAA/1X1DwAAAPBVVVX1AAAAX1VVVVUPAPBVVVVVVfUA8FVVVVVV9QBfVVX1VVVVD19VVfVVVVUPX1VVD19VVQ/wVVUPX1X1APBVVQ9fVfUAAF/1APBVDwAA8PUA8PUAAAAADwAADwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pac-man"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAACqqqqqAACggaiqqgoAABqBGKqqAACgGhERqqoKAKCqEaGqqqoAqqqqqqqqqgCqqqqqqqoAAKqqgaiqqgAAqhqBGKqqqgCgGhERqqqqAKCqEaGqqgoAAKqqqqqqAAAAoKqqqqoKAAAAAKqqqqoAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "miImagen"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
